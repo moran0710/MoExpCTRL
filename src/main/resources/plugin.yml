@@ -1,0 +1,14 @@
+name: MoExpCTRL
+version: '1.0-SNAPSHOT'
+main: top.molab.minecraft.MoExpCtrl.MoExpCtrl
+api-version: '1.21'
+prefix: MCM
+load: STARTUP
+authors: [ Moran0710 ]
+description: A Simple Chain Mining Plugin
+website: openmo.molab.top
+commands:
+  MoExpCtrl:
+    description: MoExpCtrl Command
+    usage: /MoExpCtrl
+    permission: MoExpCtrl.command
