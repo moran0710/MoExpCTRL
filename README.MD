@@ -31,7 +31,7 @@ MoExpCtrl可以控制你的服务器玩家的经验获取速度
 
 欢迎各位提出建议，新功能请求和错误反馈！
 
-请在[Github Issue](https://github.com/moran0710/MoModeratorPlus/issues)反馈问题/提出建议
+请在[Github Issue](https://github.com/moran0710/MoExpCTRL/issues)反馈问题/提出建议
 
 提ISSUE前请确认是否有其他人提出类似的issue
 
