@@ -16,7 +16,7 @@ MoExpCtrl可以控制你的服务器玩家的经验获取速度
 
 ## 快速上手
 
-完整文档请查看[OpenMoPlugin文档](http://localhost:5174/bukkit/MoExpCtrl/)
+完整文档请查看[OpenMoPlugin文档](https://openmo.molab.top/bukkit/MoExpCtrl/)
 
 1. 在[Release](https://github.com/moran0710/MoModeratorPlus/releases)
    下载最新版本的MoExpCtrl
