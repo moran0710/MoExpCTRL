@@ -1,6 +1,7 @@
 # MoExpCtrl
 
-![MoPlugins](https://img.shields.io/badge/PoweredBy-OpenMoPlugin-blue) ![License](https://img.shields.io/github/license/moran0710/MoExpCTRL)
+![MoPlugins](https://img.shields.io/badge/PoweredBy-OpenMoPlugin-blue) ![GitHub License](https://img.shields.io/github/license/moran0710/MoExpCTRL)
+
 
 一个基于权限的轻量经验控制插件
 
